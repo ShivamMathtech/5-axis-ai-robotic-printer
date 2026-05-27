@@ -2,6 +2,8 @@
 
 ## 🚀 Project Overview
 
+![image](printer.png)
+
 The **IIoT AI-Enabled 5-Axis Robotic Arm 3D Printer** is an advanced industrial-grade additive manufacturing system that combines:
 
 - 5-Axis Robotic Manipulation
@@ -20,7 +22,6 @@ Unlike traditional Cartesian 3D printers, this system enables:
 ✅ Real-time AI monitoring  
 ✅ Remote cloud control  
 ✅ Predictive maintenance analytics
-![image](printer.png)
 
 ---
 
